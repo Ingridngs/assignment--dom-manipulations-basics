@@ -117,6 +117,13 @@ hr.q-divider{
 /* reverse-squares formatting*/
 /* ---------------------- */
 
+
+.reverse-squares{
+  flex-direction: row-reverse;
+  display: flex;
+}
+
+}
 #reverse-squares .answer-box{
   text-align: center;
   font-size: 0;
